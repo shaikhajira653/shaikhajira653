@@ -14,6 +14,8 @@ Data Visualization: Power BI dashboards, Matplotlib
 
 🔹 My Projects:
 
+   Airlines Flight Data Analysis - Python integration for business insights
+
 🏦 Bank Customer Details Analysis – SQL + Python integration for business insights
 
 🚕 Uber Trip Data Analysis – Interactive dashboards in Power BI
